@@ -21,3 +21,4 @@ This directory contains shell scripts that demonstrate basic Linux navigation, f
 | `12-file_type` | Prints the type of the file named `iamafile` located in the `/tmp/` directory. |
 | `13-symbolic_link` | Creates a symbolic link to `/bin/ls` named `__ls__` in the current working directory. |
 | `14-copy_html` | Copies all HTML files from the current directory to the parent directory, updating only newer or non-existent files. |
+| `15-lets_move` | Moves all files beginning with an uppercase letter to the `/tmp/u` directory. |
