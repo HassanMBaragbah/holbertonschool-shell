@@ -23,3 +23,4 @@ This directory contains shell scripts that demonstrate basic Linux navigation, f
 | `14-copy_html` | Copies all HTML files from the current directory to the parent directory, updating only newer or non-existent files. |
 | `15-lets_move` | Moves all files beginning with an uppercase letter to the `/tmp/u` directory. |
 | `16-clean_emacs` | Deletes all files in the current working directory that end with the character `~`. |
+| `17-tree` | Creates a directory structure `welcome/to/school` using exactly two spaces in the script. |
