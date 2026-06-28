@@ -17,3 +17,4 @@ This directory contains shell scripts that demonstrate basic Linux navigation, f
 | `8-firstdelete` | Deletes the file `betty` from `/tmp/my_first_directory`. |
 | `9-firstdirdeletion` | Deletes the directory `my_first_directory` from the `/tmp/` directory. |
 | `10-back` | Changes the working directory to the previous one. |
+| `11-lists` | Lists all files (including hidden ones) in the current directory, parent directory, and `/boot` directory in long format. |
