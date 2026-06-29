@@ -18,3 +18,4 @@ This project covers Linux file permissions, user management, and switching ident
 | `9-John_Doe` | A script that sets the mode of the file `hello` to 753 (rwxr-x-wx). |
 | `10-mirror_permissions` | A script that sets the mode of the file `hello` to match the mode of the file `olleh` using a reference. |
 | `11-directories_permissions` | A script that adds execute permission to all subdirectories of the current directory for everyone, without changing regular files. |
+| `12-directory_permissions` | A script that creates a directory called `my_dir` with permissions 751 in the working directory. |
