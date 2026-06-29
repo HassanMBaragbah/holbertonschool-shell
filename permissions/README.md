@@ -15,7 +15,8 @@ This project covers Linux file permissions, user management, and switching ident
 | `6-multiple_permissions` | A script that adds execute permission to the owner and group owner, and read permission to other users, for the file `hello`. |
 | `7-everybody` | A script that adds execution permission to the owner, the group owner and the other users, to the file `hello` without using commas. |
 | `8-James_Bond` | A script that sets the permissions of the file `hello` to 007 (no permissions for owner and group, full permissions for others). |
-| `9-John_Doe` | A script that sets the mode of the file `hello` to 753 (rwxr-x-wx). |
+| `9-John_Doe` | A script set the mode of the file `hello` to 753 (rwxr-x-wx). |
 | `10-mirror_permissions` | A script that sets the mode of the file `hello` to match the mode of the file `olleh` using a reference. |
 | `11-directories_permissions` | A script that adds execute permission to all subdirectories of the current directory for everyone, without changing regular files. |
 | `12-directory_permissions` | A script that creates a directory called `my_dir` with permissions 751 in the working directory. |
+| `13-change_group` | A script that changes the group owner to `school` for the file `hello`. |
