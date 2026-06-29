@@ -19,3 +19,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `4-lastlines` | A script that displays the last 10 lines of the `/etc/passwd` file. |
 | `5-firstlines` | A script that displays the first 10 lines of the `/etc/passwd` file. |
 | `6-third_line` | A script that displays the third line of the file `iacta` without using `sed`. |
+| `7-file` | A script that creates a file with a complex name containing special characters and writes "Best School" into it. |
