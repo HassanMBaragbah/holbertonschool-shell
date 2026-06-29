@@ -24,3 +24,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `9-duplicate_last_line` | A script that duplicates the last line of the file `iacta` and appends it to the end of the file. |
 | `10-no_more_js` | A script that deletes all regular files with a `.js` extension in the current directory and all its subfolders. |
 | `11-directories` | A script that counts the number of directories and sub-directories in the current directory (excluding `.` and `..`). |
+| `12-newest_files` | A script that displays the 10 newest files in the current directory, sorted from newest to oldest, one per line. |
