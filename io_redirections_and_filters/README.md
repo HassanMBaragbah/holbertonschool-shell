@@ -29,3 +29,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `14-findthatword` | A script that displays lines from the file `/etc/passwd` containing the pattern "root". |
 | `15-countthatword` | A script that displays the number of lines containing the pattern "bin" in the file `/etc/passwd`. |
 | `16-whatsnext` | A script that displays lines containing the pattern "root" and 3 lines after them from the `/etc/passwd` file. |
+| `17-hidethisword` | A script that displays all lines in the file `/etc/passwd` that do not contain the pattern "bin". |
