@@ -14,3 +14,4 @@ This project covers Linux file permissions, user management, and switching ident
 | `5-execute` | A script that adds execute permission to the owner of the file `hello`. |
 | `6-multiple_permissions` | A script that adds execute permission to the owner and group owner, and read permission to other users, for the file `hello`. |
 | `7-everybody` | A script that adds execution permission to the owner, the group owner and the other users, to the file `hello` without using commas. |
+| `8-James_Bond` | A script that sets the permissions of the file `hello` to 007 (no permissions for owner and group, full permissions for others). |
