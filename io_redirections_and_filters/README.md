@@ -35,3 +35,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `20-hiago` | A script that removes all occurrences of the characters `c` and `C` from standard input. |
 | `21-reverse` | A script that reverses the characters of the standard input. |
 | `22-users_and_homes` | A script that displays all users and their home directories from `/etc/passwd`, sorted by username. |
+| `23-empty_casks` | A script that finds all empty files and directories in the current directory and its sub-directories, displaying only their names. |
