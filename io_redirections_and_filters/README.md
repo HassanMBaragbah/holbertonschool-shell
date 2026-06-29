@@ -27,3 +27,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `12-newest_files` | A script that displays the 10 newest files in the current directory, sorted from newest to oldest, one per line. |
 | `13-unique` | A script that takes a list of words as input and prints only the words that appear exactly once, sorted. |
 | `14-findthatword` | A script that displays lines from the file `/etc/passwd` containing the pattern "root". |
+| `15-countthatword` | A script that displays the number of lines containing the pattern "bin" in the file `/etc/passwd`. |
