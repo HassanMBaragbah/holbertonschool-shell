@@ -16,3 +16,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `1-confused_smiley` | A script that displays a confused smiley `"(Ôo)'`. |
 | `2-hellofile` | A script that displays the content of the `/etc/passwd` file. |
 | `3-twofiles` | A script that displays the content of both `/etc/passwd` and `/etc/hosts` files. |
+| `4-lastlines` | A script that displays the last 10 lines of the `/etc/passwd` file. |
