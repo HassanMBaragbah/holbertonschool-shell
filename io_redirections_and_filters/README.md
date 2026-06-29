@@ -34,3 +34,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `19-AZ` | A script that replaces all occurrences of the character `A` with `Z` and `c` with `e` from standard input. |
 | `20-hiago` | A script that removes all occurrences of the characters `c` and `C` from standard input. |
 | `21-reverse` | A script that reverses the characters of the standard input. |
+| `22-users_and_homes` | A script that displays all users and their home directories from `/etc/passwd`, sorted by username. |
