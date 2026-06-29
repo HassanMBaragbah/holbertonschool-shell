@@ -31,3 +31,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `16-whatsnext` | A script that displays lines containing the pattern "root" and 3 lines after them from the `/etc/passwd` file. |
 | `17-hidethisword` | A script that displays all lines in the file `/etc/passwd` that do not contain the pattern "bin". |
 | `18-letteronly` | A script that displays all lines in the file `/etc/ssh/sshd_config` starting with a letter (both lowercase and uppercase). |
+| `19-AZ` | A script that replaces all occurrences of the character `A` with `Z` and `c` with `e` from standard input. |
