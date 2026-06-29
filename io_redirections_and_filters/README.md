@@ -21,3 +21,4 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `6-third_line` | A script that displays the third line of the file `iacta` without using `sed`. |
 | `7-file` | A script that creates a file with a complex name containing special characters and writes "Best School" into it. |
 | `8-cwd_state` | A script that writes the result of the command `ls -la` into the file `ls_cwd_content`, overwriting it if it already exists. |
+| `9-duplicate_last_line` | A script that duplicates the last line of the file `iacta` and appends it to the end of the file. |
