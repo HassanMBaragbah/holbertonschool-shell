@@ -10,3 +10,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `1-hello_you` | A Bash script that prints "hello " followed by the current Linux user name. |
 | `2-path` | A Bash script that appends `/action` to the end of the PATH environment variable. |
 | `3-paths` | A Bash script that counts the number of directories listed in the PATH environment variable. |
+| `4-global_variables` | A Bash script that lists all environment (global) variables. |
