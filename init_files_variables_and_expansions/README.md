@@ -14,3 +14,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `5-local_variables` | A Bash script that lists all local variables, environment variables, and functions. |
 | `6-create_local_variable` | A Bash script that creates a new local variable named `BEST` with the value `School`. |
 | `7-create_global_variable` | A Bash script that creates a new global variable named `BEST` with the value `School`. |
+| `8-true_knowledge` | A Bash script that prints the result of adding 128 to the value of the environment variable `TRUEKNOWLEDGE`. |
