@@ -9,3 +9,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `0-alias` | A Bash script that creates an alias named `ls` which executes `rm -f *`. |
 | `1-hello_you` | A Bash script that prints "hello " followed by the current Linux user name. |
 | `2-path` | A Bash script that appends `/action` to the end of the PATH environment variable. |
+| `3-paths` | A Bash script that counts the number of directories listed in the PATH environment variable. |
