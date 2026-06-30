@@ -16,3 +16,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `7-create_global_variable` | A Bash script that creates a new global variable named `BEST` with the value `School`. |
 | `8-true_knowledge` | A Bash script that prints the result of adding 128 to the value of the environment variable `TRUEKNOWLEDGE`. |
 | `9-divide_and_rule` | A Bash script that prints the result of the environment variable `POWER` divided by `DIVIDE`. |
+| `10-love_exponent_breath` | A Bash script that displays the result of the environment variable `BREATH` to the power of `LOVE`. |
