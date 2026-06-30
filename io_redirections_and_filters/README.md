@@ -35,5 +35,10 @@ This project is part of the shell curriculum and focuses on understanding I/O re
 | `20-hiago` | A script that removes all occurrences of the characters `c` and `C` from standard input. |
 | `21-reverse` | A script that reverses the characters of the standard input. |
 | `22-users_and_homes` | A script that displays all users and their home directories from `/etc/passwd`, sorted by username. |
+
+## Advanced Tasks
+
 | `23-empty_casks` | A script that finds all empty files and directories in the current directory and its sub-directories, displaying only their names. |
 | `24-gifs` | A script that lists all `.gif` files in the current directory and sub-directories, displaying names without extensions, sorted case-insensitively. |
+| `25-acrostic` | A script that decodes acrostics that use the first letter of each line from standard input, ending the decoded message with a new line. |
+| `26-the_biggest_fan` | A script that parses web server logs in TSV format as input and displays the top 11 hosts or IP addresses which did the most requests. |
