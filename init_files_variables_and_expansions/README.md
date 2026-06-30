@@ -11,3 +11,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `2-path` | A Bash script that appends `/action` to the end of the PATH environment variable. |
 | `3-paths` | A Bash script that counts the number of directories listed in the PATH environment variable. |
 | `4-global_variables` | A Bash script that lists all environment (global) variables. |
+| `5-local_variables` | A Bash script that lists all local variables, environment variables, and functions. |
