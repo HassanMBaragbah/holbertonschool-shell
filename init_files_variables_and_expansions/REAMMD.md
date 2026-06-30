@@ -1,0 +1,9 @@
+# Shell, init files, variables and expansions
+
+This repository contains Bash scripts for learning shell initialization files, variables, and expansions as part of the Holberton School curriculum.
+
+## Files Description
+
+| File | Description |
+| --- | --- |
+| `0-alias` | A Bash script that creates an alias named `ls` which executes `rm -f *`. |
