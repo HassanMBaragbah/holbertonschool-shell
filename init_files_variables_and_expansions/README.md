@@ -17,3 +17,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `8-true_knowledge` | A Bash script that prints the result of adding 128 to the value of the environment variable `TRUEKNOWLEDGE`. |
 | `9-divide_and_rule` | A Bash script that prints the result of the environment variable `POWER` divided by `DIVIDE`. |
 | `10-love_exponent_breath` | A Bash script that displays the result of the environment variable `BREATH` to the power of `LOVE`. |
+| `11-binary_to_decimal` | A Bash script that converts a binary number stored in the environment variable `BINARY` to base 10. |
