@@ -12,3 +12,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `3-paths` | A Bash script that counts the number of directories listed in the PATH environment variable. |
 | `4-global_variables` | A Bash script that lists all environment (global) variables. |
 | `5-local_variables` | A Bash script that lists all local variables, environment variables, and functions. |
+| `6-create_local_variable` | A Bash script that creates a new local variable named `BEST` with the value `School`. |
