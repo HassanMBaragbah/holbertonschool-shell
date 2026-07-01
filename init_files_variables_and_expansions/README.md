@@ -21,3 +21,4 @@ This repository contains Bash scripts for learning shell initialization files, v
 | `12-combinations` | A Bash script that prints all possible combinations of two lowercase letters from `aa` to `zz`, excluding `oo`. |
 | `13-print_float` | A Bash script that prints a number stored in the environment variable `NUM` with exactly two decimal places. |
 | `14-decimal_to_hexadecimal` | A Bash script that converts a decimal number stored in the environment variable `DECIMAL` to hexadecimal (base 16). |
+| `15-rot13` | A Bash script that encodes and decodes text using the ROT13 encryption algorithm (ASCII only). |
